@@ -4,6 +4,6 @@ to simple and elegant
 
 # CALCULATOR 📱
 
-![calulator](/public/favicon)
+![calulator](desktop-preview.jpg)
 
 Live url: https://calculator-makodoli.vercel.app/
